@@ -1,7 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "npm install -g pnpm@10.12.4 && pnpm install --frozen-lockfile",
-  "buildCommand": "npm install -g pnpm@10.12.4 && pnpm build",
   "headers": [
     {
       "source": "/fonts/inter-var-latin.woff2",
